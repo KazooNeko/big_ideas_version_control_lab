@@ -1,2 +1,2 @@
-first_int = input("Enter an integer:")
-second_int = input("Enter another integer:")
+first_int = int(input("Enter an integer:"))
+second_int = int(input("Enter another integer:"))
